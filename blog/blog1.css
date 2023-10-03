@@ -1,0 +1,53 @@
+body {
+  margin: auto;
+  padding: auto;
+}
+
+.container {
+  color: black;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+#gambar {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: center;
+}
+#gambar-4 {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+  align-items: center;
+}
+
+img {
+  align-items: center;
+  padding-top: 10px;
+  max-width: 40%;
+  max-height: 40%;
+}
+
+h1 {
+  padding-top: 5px;
+  text-align: center;
+}
+
+p {
+  padding-left: 30px;
+  max-width: 90%;
+  font-size: 25px;
+}
+
+#link {
+  padding: 10px 10px;
+  color: black;
+  font-size: 20px;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+}
